@@ -1,7 +1,7 @@
 {
-  "name": "vvinhas-react-series",
+  "name": "contador",
   "version": "0.0.0",
-  "description": "Provides a basic structure to follow the v++ channel React series.",
+  "description": "",
   "main": "src/app.js",
   "dependencies": {
     "babel-core": "^6.22.1",
@@ -10,7 +10,8 @@
     "babel-preset-react": "^6.3.13",
     "babel-preset-stage-0": "^6.3.13",
     "react": "^15.4.2",
-    "react-dom": "^15.4.2"
+    "react-dom": "^15.4.2",
+    "styled-components": "^3.2.6"
   },
   "devDependencies": {
     "webpack": "^2.2.1",
@@ -19,6 +20,6 @@
   "scripts": {
     "dev": "webpack-dev-server --inline --hot --history-api-fallback --content-base public"
   },
-  "author": "Vinicius Vinhas",
-  "license": "MIT"
+  "author": "",
+  "license": ""
 }

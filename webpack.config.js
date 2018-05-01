@@ -1,4 +1,3 @@
-// Webpack configuration provided by LearnCode.academy (https://www.youtube.com/user/learncodeacademy)
 var debug = process.env.NODE_ENV !== "production";
 var webpack = require('webpack');
 var path = require('path');
